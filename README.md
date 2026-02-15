@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Saini</h1>
-<h3 align="center">SDE-1 @ CarDekho</h3>
+<h3 align="center">SDE II @ Rupyy (CarDekho Group)</h3>
 
 ---
 
@@ -15,18 +15,17 @@
 
 ### 🔨 Featured Project
 
-#### 📱 [BuddyBills – Group Expense Manager PWA](https://github.com/Rohit-Saini7/BuddyBills)
+#### 📱 [BuddyBills](https://github.com/Rohit-Saini7/BuddyBills)
 A fullstack Progressive Web App for managing shared group expenses with real-time balance updates and advanced splitting logic.
 
-🔗 [Live App](https://buddy-bills.vercel.app/) | 📂 [GitHub Repo](https://github.com/Rohit-Saini7/BuddyBills) | 🎥 [Loom Demo](https://www.loom.com/share/5d4feaa99bcf4c43964ad6373f18f7f0)
+🔗 [Live App](https://buddybills.vercel.app/) | 📂 [GitHub Repo](https://github.com/Rohit-Saini7/BuddyBills) | 🎥 [Loom Demo](https://www.loom.com/share/5d4feaa99bcf4c43964ad6373f18f7f0)
 
 **Tech Stack:** `Next.js`, `NestJS`, `PostgreSQL`, `Tailwind`, `JWT`, `Google OAuth`, `Vercel`
 
-> ✅ Scalable multi-tenant backend with versioned migrations  
-> ✅ Dynamic split logic: Equal, Percentage, Shares  
-> ✅ JWT-based authentication & Google login  
-> ✅ Fully responsive UI with Lighthouse score 95+  
-> ✅ Deployed frontend on Vercel; backend on cloud with CI/CD
+> ✅ A PWA for Group Expense Tracking with auth, role‑based access, and auto‑balance updates.
+> ✅ Scalable backend with NestJS, PostgreSQL, TypeORM, versioned migrations, and JWT auth.
+> ✅ Dynamic split logic (equal, percentage, shares), Google OAuth, and deployed on Vercel.
+> ✅ Optimized UI with Tailwind CSS, achieving Lighthouse score of 95+.
 
 ---
 
@@ -42,24 +41,11 @@ A fullstack Progressive Web App for managing shared group expenses with real-tim
 
 - Solving DSA problems on LeetCode (focus: arrays, strings, recursion)  
 - Exploring frontend system design (scalability, state management, performance)  
-- Preparing for SDE-2 interviews with a frontend-heavy scope
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohit-Saini7&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Saini7&theme=radical" />
-</p>
 
 ---
 
 ### 📫 Reach Me
 
-- 💼 LinkedIn: [linkedin.com/in/rohit-saini7](https://linkedin.com/in/rohit-saini7)  
-- 🧠 LeetCode: [leetcode.com/u/Rohit-Saini7](https://leetcode.com/u/Rohit-Saini7)  
+- 💼 LinkedIn: [@rohitsaini7](https://linkedin.com/in/rohitsaini7)  
 
-[![@rohit712wd's Holopin board](https://holopin.me/rohit712wd)](https://holopin.io/@rohit712wd)
-
----
+[![Holopin board](https://holopin.me/rohit712wd)](https://holopin.io/@rohit712wd)
