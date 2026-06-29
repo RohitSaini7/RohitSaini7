@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-- 💻 Fullstack Developer with 2+ years of experience building scalable, high-performance web apps
+- 💻 Fullstack Developer with 3 years of experience building scalable, high-performance web apps
 - 🧠 Specializing in frontend engineering using **React**, **Next.js**, and **TypeScript**
 - ⚙️ Strong backend fundamentals with **NestJS**, **PostgreSQL**, and **REST API** design
 - ☁️ Proficient with **AWS**, **CI/CD**, and scalable infrastructure
@@ -15,10 +15,10 @@
 
 ### 🔨 Featured Project
 
-#### 📱 [BuddyBills](https://github.com/Rohit-Saini7/BuddyBills)
+#### 📱 [BuddyBills](https://github.com/RohitSaini7/BuddyBills)
 A fullstack Progressive Web App for managing shared group expenses with real-time balance updates and advanced splitting logic.
 
-🔗 [Live App](https://buddybills.vercel.app/) | 📂 [GitHub Repo](https://github.com/Rohit-Saini7/BuddyBills) | 🎥 [Loom Demo](https://www.loom.com/share/5d4feaa99bcf4c43964ad6373f18f7f0)
+🔗 [Live App](https://buddybills.rohitsaini.dev/) | 📂 [GitHub Repo](https://github.com/Rohit-Saini7/BuddyBills)
 
 **Tech Stack:** `Next.js`, `NestJS`, `PostgreSQL`, `Tailwind`, `JWT`, `Google OAuth`, `Vercel`
 
